@@ -1,0 +1,42 @@
+.dark-navbar {
+    background-color: rgb(22, 22, 22);
+  }
+  
+  body {
+    background-color: rgb(75, 75, 75);
+    color: antiquewhite
+  }
+  
+  .navbar-light .navbar-brand, .navbar-light .navbar-text{
+    color: antiquewhite
+  }
+  
+  .form-control, .form-select, .list-group-item  {
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+  }
+
+  .form-control:focus, .form-select:focus, .list-group-item:focus  {
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+  }
+
+  .page-link, .page-item.disabled .page-link {
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+  }
+
+  .page-link:hover, .page-item.disabled .page-link:hover {
+    background-color: rgb(91, 91, 91);
+    color: whitesmoke;
+  }
+
+  .card-body{
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+  }
+
+  .card-header{
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+  }
